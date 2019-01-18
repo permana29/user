@@ -3,7 +3,7 @@ echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
-$Per-mana = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
+$Permana = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347'.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
 $msgtoto = "[!] Subscribe Youtube Per-mana".$t.$ijo."[•••••] sekilas info [••••••]
 hallo guys apa kabar
