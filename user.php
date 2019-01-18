@@ -4,7 +4,7 @@ echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
 $Permana = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
-$ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347'.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]";
+$ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347'.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] Per-mana ".$putih.";
 $msgtoto = "[!] Subscribe Youtube Per-mana".$t.$ijo."[•••••] sekilas info [••••••]
 hallo guys apa kabar
 yang masih setia menunggu update script terbaru toto
