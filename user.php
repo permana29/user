@@ -47,7 +47,7 @@ $msgwe = "[•] update vip versi 2.0 ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
 //input
-'info hits', 'ipoel adm', 'Per-mana', 'NameIS_ Youtube',        
+'info hits','ipoel adm','Per-mana','NameIS_ Youtube','Tampan Work',        
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
