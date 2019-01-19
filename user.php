@@ -50,7 +50,7 @@ $data= ['H84391',
 'info hits','ipoel adm','Per-mana','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
  //reff
-'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007',
+'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
