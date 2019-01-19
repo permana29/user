@@ -48,7 +48,7 @@ $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
 //input
 'info hits','ipoel adm','Per-mana','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
-'Admipoel',
+'Admipoel 8',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
