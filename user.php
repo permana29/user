@@ -51,7 +51,7 @@ $data= ['H84391',
 'Admipoel 8',
  //reff
 'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
-'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Greend Malik',
+'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
