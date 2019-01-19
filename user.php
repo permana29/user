@@ -46,9 +46,11 @@ $we_stat = true;
 $msgwe = "[•] update vip versi 2.0 ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
-//input
+//VIP
 'info hits','ipoel adm','Per-mana','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
-'Admipoel 8','Rifky Sadega','Togop 1233','Syahdan Ajja',
+'Admipoel 8',
+ //reff
+'Rifky Sadega','Togop 1233','Syahdan Ajja',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
