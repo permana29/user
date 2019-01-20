@@ -26,7 +26,7 @@ $data= ['H84391',
  'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
  'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','vijay kumar',
  //Vipveu
- 'info hits','ipoel adm','Per-mana','NameIS_ Youtube',
+ 'info hits','ipoel adm','Per-mana','NameIS_ Youtube','Tampan Work',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
