@@ -55,7 +55,7 @@ $data= ['H84391',
  'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
  'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','vijay kumar','ferdi akatsuki','Kiki Ucup',
  'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
- 'Randi Uchiha',
+ 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
