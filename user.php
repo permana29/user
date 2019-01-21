@@ -1,10 +1,10 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] Jika Anda mengalami stuk validasi akun harap sabar..".$t;
-echo $kuning."[-] Validasi Akun Hari ini sedikit error di beberapa akun termasuk saya sendiri".$t;
-echo $kuning."[-] Karena Sedang ada masalah jaringan mohon sabar ini tidak akan lama".$t;
-echo $kuning."[-] Saya selalu memantau Jadi tetap tenang : Per-mana".$t.$ijo.$t;
+echo $kuning."[-] Jika Anda mengalami stuk validasi akun harap sabar itu tidak akan lama".$t;
+echo $kuning."[-] Untuk Pendaftaran Member hari ini agak lama".$t;
+echo $kuning."[-] Karena Sedang ada hujan badai di kota admin dan koneksi buruk".$t;
+echo $kuning."[-] Untuk yang Stuk Downloading Di coba kembali esok hari menyalakan bot nya.".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
