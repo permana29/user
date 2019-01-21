@@ -1,7 +1,7 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
+echo $kuning."[-] Sedang ada masalah jaringan mohon sabar".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -56,7 +56,7 @@ $data= ['H84391',
  'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
  'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
  'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
-  'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel',
+ 'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
