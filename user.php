@@ -1,7 +1,8 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] Validasi Akun sedikit error karena".$t;
+echo $kuning."[-] Jika mengalami stuk validasi akun harap sabar..".$t;
+echo $kuning."[-] Validasi Akun Hari ini sedikit error karena".$t;
 echo $kuning."[-] Sedang ada masalah jaringan mohon sabar ini tidak akan lama".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
