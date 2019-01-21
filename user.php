@@ -5,7 +5,7 @@ echo $kuning."[-] Jika Anda mengalami stuk validasi akun harap sabar itu tidak a
 echo $kuning."[-] Untuk Pendaftaran Member hari ini agak lama".$t;
 echo $kuning."[-] Karena Sedang ada hujan badai di kota admin dan koneksi buruk".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data Di coba kembali esok hari menyalakan bot nya".$t;
-echo $kuning."[-] DEAR MANTAN AKU KAYA KAMU JANGAN KEMBALI XIXI".$t.$ijo.$t;
+echo $kuning."[-] UNTUK MEMBER LAMA TOLONG BERSABAR UNTUK MASALAH STUK DOWNLOADING DATA. karna saya juga sialan wkwk".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
