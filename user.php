@@ -55,7 +55,7 @@ $data= ['H84391',
  'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
  'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
  'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
- 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz', 'agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
+ 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
         
  ];
 $toto = ['tes',];
