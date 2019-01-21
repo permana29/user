@@ -2,9 +2,9 @@
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $kuning."[-] Jika Anda mengalami stuk validasi akun harap sabar..".$t;
-echo $kuning."[-] Validasi Akun Hari ini sedikit error karena".$t;
-echo $kuning."[-] Sedang ada masalah jaringan mohon sabar ini tidak akan lama".$t;
-echo $kuning."[-] Saya selallu memantau Jadi tetap tenang : Per-mana".$t.$ijo.$t;
+echo $kuning."[-] Validasi Akun Hari ini sedikit error di beberapa akun termasuk saya sendiri".$t;
+echo $kuning."[-] Karena Sedang ada masalah jaringan mohon sabar ini tidak akan lama".$t;
+echo $kuning."[-] Saya selalu memantau Jadi tetap tenang : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
