@@ -49,17 +49,16 @@ $we_stat = true;
 $msgwe = "[•] update vip versi 2.0 ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
-//VIPW&E
+//info
 'info hits','Per-mana','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
- //reff
 'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
 'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ','sentotsrd68@gmail.com',
- 'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
- 'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
- 'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
- 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
- 'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel',
+'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
+'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
+'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
+'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
+'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele',
  ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
