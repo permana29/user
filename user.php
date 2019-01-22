@@ -4,6 +4,7 @@ echo $kuning."[-] ini adalah program ilegal".$t;
 echo $ijo."[!] PENGUMUMAN !!!".$t;
 echo $kuning."[-] Info hari selasa 22 - januari - 2019 ".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data Anda Harap Memasukan Ticket Kembali".$t;
+echo $kuning."[-] Masukan Ticket ulang ke dalam cfg.php untuk yg stuk downloading data".$t;
 echo $kuning."[-] untuk pagi ini ada 5 member yg sudh di konfirmasi silakan jalankan bot".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
