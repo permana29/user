@@ -60,7 +60,7 @@ $data= ['H84391',
 'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
 'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele','Christian Sa','Harianto Christian','Acong Squad','Muzaqi Putra','rizky wahyu','Rajo Montero',
-'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac',       
+'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',     
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
