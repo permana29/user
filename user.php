@@ -1,7 +1,8 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] INFO HARI SELASA".$t;
+echo $ijo."[!] PENGUMUMAN !!!".$t;
+echo $kuning."[-] Info hari selasa 22 - januari - 2019 ".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data Anda Harap Memasukan Ticket Kembali".$t;
 echo $kuning."[-] untuk pagi ini ada 5 member yg sudh di konfirmasi silakan jalankan bot".$t.$ijo.$t;
 $stat_ads=true;
