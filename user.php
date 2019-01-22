@@ -1,8 +1,8 @@
 <?php
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] Jika Anda mengalami stuk validasi akun harap sabar itu tidak akan lama".$t;
-echo $kuning."[-] Untuk yang Stuk Downloading Data Di coba kembali esok hari menyalakan bot nya".$t;
+echo $kuning."[-] INFO HARI SELASA".$t;
+echo $kuning."[-] Untuk yang Stuk Downloading Data Anda Harap Memasukan Ticket Kembali".$t;
 echo $kuning."[-] untuk pagi ini ada 5 member yg sudh di konfirmasi silakan jalankan bot".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
