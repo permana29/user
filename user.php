@@ -1,13 +1,6 @@
 <?php
-echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
-echo $ijo."[!] PENGUMUMAN !!!".$t;
-echo $kuning."[-] Info hari Rabu, 24 - januari - 2019 ".$t;
-echo $kuning."[-] Untuk yang Stuk Downloading Data W&E Anda Harap Memasukan Ticket Kembali".$t;
-echo $kuning."[-] Masukan Ticket ulang ke dalam cfg.php untuk yg stuk downloading data".$t;
-echo $kuning."[-] untuk Hari ini ada 8 member W&E yg sudh di konfirmasi !!!".$t;
-echo $kuning."[-] Enjoy Nuyul.. hubungi permana jika ada masalah".$t.$ijo.$t;
-$stat_ads=true;
+echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
