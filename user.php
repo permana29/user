@@ -63,7 +63,7 @@ $data= ['H84391',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
-
+'Ijal Jale',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
