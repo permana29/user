@@ -5,7 +5,7 @@ echo $ijo."[!] PENGUMUMAN !!!".$t;
 echo $kuning."[-] Info hari Rabu, 23 - januari - 2019 ".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data W&E Anda Harap Memasukan Ticket Kembali".$t;
 echo $kuning."[-] Masukan Ticket ulang ke dalam cfg.php untuk yg stuk downloading data".$t;
-echo $kuning."[-] untuk Hari ini ada 26 member W&E yg sudh di konfirmasi !!!".$t;
+echo $kuning."[-] untuk Hari ini ada 30 member W&E yg sudh di konfirmasi !!!".$t;
 echo $kuning."[-] Enjoy Nuyul.. hubungi permana jika ada masalah".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
