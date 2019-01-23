@@ -2,10 +2,10 @@
 echo $red."[!] warning !!!".$t;
 echo $kuning."[-] ini adalah program ilegal".$t;
 echo $ijo."[!] PENGUMUMAN !!!".$t;
-echo $kuning."[-] Info hari selasa 22 - januari - 2019 ".$t;
+echo $kuning."[-] Info hari selasa 23 - januari - 2019 ".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data Anda Harap Memasukan Ticket Kembali".$t;
 echo $kuning."[-] Masukan Ticket ulang ke dalam cfg.php untuk yg stuk downloading data".$t;
-echo $kuning."[-] untuk pagi ini ada 5 member yg sudh di konfirmasi silakan jalankan bot".$t.$ijo.$t;
+echo $kuning."[-] untuk pagi ini ada 16 member yg sudh di konfirmasi member W&E silakan jalankan bot".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -60,7 +60,10 @@ $data= ['H84391',
 'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
 'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
 'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele','Christian Sa','Harianto Christian','Acong Squad','Muzaqi Putra','rizky wahyu','Rajo Montero',
-'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',     
+'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',
+        'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara',
+'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR',
+'Pemburu Dollar',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
