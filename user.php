@@ -5,7 +5,7 @@ echo $ijo."[!] PENGUMUMAN !!!".$t;
 echo $kuning."[-] Info hari Rabu, 23 - januari - 2019 ".$t;
 echo $kuning."[-] Untuk yang Stuk Downloading Data W&E Anda Harap Memasukan Ticket Kembali".$t;
 echo $kuning."[-] Masukan Ticket ulang ke dalam cfg.php untuk yg stuk downloading data".$t;
-echo $kuning."[-] untuk Hari ini ada 16 member W&E yg sudh di konfirmasi !!!".$t;
+echo $kuning."[-] untuk Hari ini ada 17 member W&E yg sudh di konfirmasi !!!".$t;
 echo $kuning."[-] Enjoy Nuyul.. hubungi permana jika ada masalah".$t.$ijo.$t;
 $stat_ads=true;
 $stat_ads=true;
@@ -64,7 +64,7 @@ $data= ['H84391',
 'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',
 'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR',
-'Pemburu Dollar','Muhamad Musl',
+'Pemburu Dollar','Muhamad Musl','Ilhamsetya',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
