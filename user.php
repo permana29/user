@@ -43,7 +43,7 @@ $vip1= false;
 //$weblock =["Imam Almasyah Risanzani",];
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
-$msgwe = "[•] update vip versi 2.0 ";
+$msgwe = "[•] Coin Habis Nyalain Besok Lagi coy.. ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
 //info
