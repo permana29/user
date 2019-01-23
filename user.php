@@ -44,7 +44,7 @@ $vip1= false;
 //$weblock =["Imam Almasyah Risanzani",];
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
-$msgwe = "[•] VVIP CAP GUNTING ";
+$msgwe = "[•] VIP CAP GUNTING ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
 //info
