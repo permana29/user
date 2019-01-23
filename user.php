@@ -45,9 +45,8 @@ $vip1= false;
 $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
-$we_stat = true;
-$msgwe = "[•] Subscribe itu gratis :♧https://yt.com/permana29♧ ";
-$msgveeu = "[!] enjoy your life";
+$msgwe = "[•] Subscribe itu gratis : https://youtube.com/permana29";
+$msgveeu = "[!] Subscribe Free : https ://youtube.com/permana29";
 $data= ['H84391',
 //info
 'info hits','Per-mana','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
