@@ -63,7 +63,7 @@ $data= ['H84391',
 'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele','Christian Sa','Harianto Christian','Acong Squad','Muzaqi Putra','rizky wahyu','Rajo Montero',
 'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',
 'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara',
-'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR',
+'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya',
         ];
 $toto = ['tes',];
