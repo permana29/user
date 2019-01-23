@@ -1,6 +1,9 @@
 <?php
-echo $kuning."[-] ini adalah program ilegal".$t;
-echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
+echo $ijo."[!] PENGUMUMAN !!!".$t;
+echo $putih."[-] Date : Kamis, 24-Januari-2019".$t;
+echo $kuning."[-] 8 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+Date | lolcate 
+echo $kuning."[-] Jika ada masalah hubungi saya : Permana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -52,14 +55,16 @@ $data= ['H84391',
 'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ','sentotsrd68@gmail.com',
 'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
 'Reta Bgn','adi doan','Ahmad Ams','Wafiq','Gatget Anak Kost','Indra Prastomo','Rahmat Dhani Pjt','ferdi akatsuki','Kiki Ucup',
-'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon','Fauzy Rahmad',
-'Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
-'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele','Christian Sa','Harianto Christian','Acong Squad','Muzaqi Putra','rizky wahyu','Rajo Montero',
-'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',
-'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara','Yatie Rezky','Yatie Rezky','vxcv chanel','Haidar ilyas',
+'M.yaskur. nasir','Apa Yh','ianatul husnia','Raferi','Ling Lung','Rendi Aja78','Eddy Bernard','Tengku Revino','eko gendon',
+'Fauzy Rahmad','Randi Uchiha','Bram Mendrofaa','Firdaus Al Fatih','CAH NDESO','Acong Squad','Muzaqi Putra','rizky wahyu','Rajo Montero',
+'Eko Ferdy','jiezant zuz','agam sarewa','Timo Natanae','Nizar','Fiki Aditia','Alan Fadhlan','Ilham Sakroni','erizal yulio',
+'Agus Aan Nur Fauzi','Agus Aan nur fauzi','Reya Ichy Channel','[RWT] BLEGUD','Kumis Lele','Christian Sa','Harianto Christian',
+'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles',
+'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara','Yatie Rezky','Yatie Rezky',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
-'Firwho','tawa gembira','Fram Ajaa'', Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr',       
+'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
+        
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
