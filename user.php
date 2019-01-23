@@ -54,6 +54,7 @@ $data= ['H84391',
 //info
 'info hits','Per-mana','ipoel adm','NameIS_ Youtube','Tampan Work','Admipoel 4','Adm Ipoel5','Adm Ipoel6', 'Admipoel 7',
 'Admipoel 8',
+//rf
 'Rifky Sadega','Togop 1233','Syahdan Ajja','Rivaldi Cyber007','Neon Skylight','Jalan Pintas','Novi Liem','Edy Bitcoin',
 'Erik Rizzal','Teguh Sunahgara','Gadis Nawang','youssef miringo','muhammad ilham','Gɾȅ Ȅnɗ','sentotsrd68@gmail.com',
 'gre end','Grnd Nstn','Dameh Yamete','moeha jatun','Maze Land','Jefri RP','Aditya Abimanyu','Shaka Ellink','Alan Banjeng',
@@ -65,7 +66,7 @@ $data= ['H84391',
 'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara','Yatie Rezky','Yatie Rezky','vxcv chanel','Haidar ilyas',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
- 'Firwho','tawa gembira','Fram Ajaa'', Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr',       
+'Firwho','tawa gembira','Fram Ajaa'', Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr',       
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
