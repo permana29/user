@@ -1,8 +1,8 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
-echo $kuning."[-] 9 akun W&E hari ini Telah di konfirmasi sebagai member".$t; 
-echo $kuning."[-] Pada Jam : 01:44".$t.$ijo.$t;
+echo $kuning."[-] 10 akun W&E hari ini Telah di konfirmasi sebagai member".$t; 
+echo $kuning."[-] Di Perbaarui Pada Jam : 03.02".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -63,7 +63,7 @@ $data= ['H84391',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
-'Ijal Jale',
+'Ijal Jale','Pallaka Pall',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
