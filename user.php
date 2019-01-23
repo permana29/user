@@ -1,5 +1,5 @@
 <?php
-echo $ijo."[!] PENGUMUMAN !!!".$t;
+echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
 echo $kuning."[-] 9 akun W&E hari ini Telah di konfirmasi sebagai member".$t; 
 echo $kuning."[-] Pada Jam : 01:44".$t.$ijo.$t;
