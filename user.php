@@ -64,7 +64,7 @@ $data= ['H84391',
 'Yaskur Nasir','Erik.rizzal24@gmail.com','eriktoke900@gmail.com','Ani Mbul','Muhammad Zac','Ynue Isanto','Pencari Etherium','Squidward Tentacles','aldiucritt',
 'krisna reza','Fadhil Setiono','MaVIDIO s','Yahoo Broww','Riu Rivaldo','Puji A Widodo','Dwaay','Andi Asmara',
 'SN Gaming','Haji Aja'.'Sarip Firman','BOJONEGORO HITS','Nizar Decade','Gustiantoy PUBG Mobile','SMPN 5 SATAP MALBAR','Andi Rifky',
-'Pemburu Dollar','Muhamad Musl','Ilhamsetya',
+'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
