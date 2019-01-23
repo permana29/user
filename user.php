@@ -2,7 +2,7 @@
 echo $ijo."[!] PENGUMUMAN !!!".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019".$t;
 echo $kuning."[-] 8 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo date | lolcat
+echo date 
 echo $kuning."[-] Sedang Di Perbaiki".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
