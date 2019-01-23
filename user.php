@@ -1,8 +1,9 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
-echo $kuning."[-] 10 akun W&E hari ini Telah di konfirmasi sebagai member".$t; 
-echo $kuning."[-] Di Perbaarui Pada Jam : 03.02".$t.$ijo.$t;
+echo $kuning."[-] 10 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] Di Perbaarui Pada Jam : 03.02 WIB".$t;
+echo $kuning."[-] JANGAN LUPA KLIK SUBSCRIBE YT :"$putih." Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
