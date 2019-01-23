@@ -1,9 +1,8 @@
 <?php
 echo $ijo."[!] PENGUMUMAN !!!".$t;
-echo $putih."[-] Date : Kamis, 24-Januari-2019".$t;
-echo $kuning."[-] 8 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo date 
-echo $kuning."[-] Sedang Di Perbaiki".$t.$ijo.$t;
+echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
+echo $kuning."[-] 8 akun W&E hari ini Telah di konfirmasi sebagai member".$t; 
+echo $kuning."[-] Pada Jam : 01:44".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
