@@ -46,7 +46,7 @@ $ydblock = ["Imam Almasyah Risanzani",];
 $we_stat = true;
 $msgwe = "[•] VIP CAP GUNTING ";
 $we_stat = true;
-$msgwe = "[•] Subscribe https://yt.com/permana29 ";
+$msgwe = "[•] Subscribe itu gratis :"$putih."$thttps://yt.com/permana29 ";
 $msgveeu = "[!] enjoy your life";
 $data= ['H84391',
 //info
