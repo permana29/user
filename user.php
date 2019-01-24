@@ -3,6 +3,7 @@ echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
 echo $kuning."[-] 21 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbaarui Pada Jam : 19.17 WIB".$t;
+echo $kuning."[-] Jika Ada masalah Script Hubungi Admin Per-mana".$t;
 echo $merah."[-] JANGAN LUPA KLIK SUBSCRIBE YT : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
