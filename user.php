@@ -1,8 +1,8 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis, 24-Januari-2019 ".$t;
-echo $kuning."[-] 21 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo $kuning."[-] Di Perbaarui Pada Jam : 19.17 WIB".$t;
+echo $kuning."[-] 23 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] Di Perbaarui Pada Jam : 19.24 WIB".$t;
 echo $kuning."[-] Jika Ada masalah Script Hubungi Admin Per-mana".$t;
 echo $merah."[-] JANGAN LUPA KLIK SUBSCRIBE YT : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
@@ -67,7 +67,7 @@ $data= ['H84391',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
 'Ijal Jale','Pallaka Pall','Rezza Ramadhan','Noe Hacked','Rezza Ramadhan','Dadan dani Supriyadi','ahmad widiya','Rohman Art',
-'alfahera2321@gmail.com','Ahmad Assaqif','NI Alfin','Osky','Alditsa Dhygta2',
+'alfahera2321@gmail.com','Ahmad Assaqif','NI Alfin','Osky','Alditsa Dhygta2','Fajar Hidayat',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
