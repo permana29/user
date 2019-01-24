@@ -66,7 +66,7 @@ $data= ['H84391',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
 'Ijal Jale','Pallaka Pall','Rezza Ramadhan','Noe Hacked','Rezza Ramadhan','Dadan dani Supriyadi','ahmad widiya','Rohman Art',
-'alfahera2321@gmail.com',
+'alfahera2321@gmail.com','Ahmad Assaqif',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
