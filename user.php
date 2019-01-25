@@ -1,10 +1,10 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Jum'at 25-Januari-2019 ".$t;
-echo $kuning."[-] 7 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo $kuning."[-] Di Perbaarui Pada Jam : 01.47 WIB".$t;
-echo $red."[-] Jika ada pertanyaan hubungi permana via Facebook!".$t;
-echo $merah."[-] JANGAN LUPA KLIK SUBSCRIBE YT : Per-mana".$t.$ijo.$t;
+echo $kuning."[-] 9 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] Di Perbaarui Pada Jam : 11.48 WIB".$t;
+echo $red."[-] Untuk Pendaftara Member Saya Tutup dulu hari ini.".$t;
+echo $merah."[-] Karna Sedang Keluar kota".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -68,7 +68,8 @@ $data= ['H84391',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
 'Ijal Jale','Pallaka Pall','Rezza Ramadhan','Noe Hacked','Rezza Ramadhan','Dadan dani Supriyadi','ahmad widiya','Rohman Art',
 'alfahera2321@gmail.com','Ahmad Assaqif','NI Alfin','Osky','Alditsa Dhygta2','Fajar Hidayat','Inzal Fikri','m.salman al farisi',
- 'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha',
+ 'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha','Ivan Mahardika','Wiwi',
+'Om Anarki',
         ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
