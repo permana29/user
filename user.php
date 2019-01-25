@@ -1,7 +1,7 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Jum'at 25-Januari-2019 ".$t;
-echo $kuning."[-] 9 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] 12 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbaarui Pada Jam : 11.48 WIB".$t;
 echo $red."[-] Untuk Pendaftara Member Saya Tutup dulu hari ini.".$t;
 echo $merah."[-] Karna Sedang Keluar kota".$t.$ijo.$t;
