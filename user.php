@@ -67,7 +67,7 @@ $data= ['H84391',
 'Pemburu Dollar','Muhamad Musl','Ilhamsetya','Juanda Hartono','Oraurus 1','Ramdy Amaz','Kotim GT','Adian Rivaldo','Wans Idiot','Muhammad Zakaria',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
 'Ijal Jale','Pallaka Pall','Rezza Ramadhan','Noe Hacked','Rezza Ramadhan','Dadan dani Supriyadi','ahmad widiya','Rohman Art',
-'alfahera2321@gmail.com','Ahmad Assaqif','NI Alfin','Osky','Alditsa Dhygta2','Fajar Hidayat','Inzal Fikri','m.salman al farisi',
+'alfahera2321@gmail.com','Ahmad Assaqif','Nl Alfin','Osky','Alditsa Dhygta2','Fajar Hidayat','Inzal Fikri','m.salman al farisi',
  'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha','Ivan Mahardika','Wiwi',
 'Om Anarki',
         ];
