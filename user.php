@@ -1,8 +1,8 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-] Date : Sabtu 26-Januari-2019 ".$t;
-echo $kuning."[-] 24 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo $kuning."[-] Di Perbarui Pada Jam : 21:40 WIB".$t;
+echo $putih."[-] Date : Minggu 27-Januari-2019 ".$t;
+echo $kuning."[-] 5 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] Di Perbarui Pada Jam : 02:11 WIT".$t;
 echo $kuning."[-] Mohon Maaf Admin sedang di luar kota,.".$t;
 echo $kuning."[-] Jadi sinyal down, Untuk pendaftaran Member W&E jadi terhambat mohon maaf.".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
@@ -69,9 +69,10 @@ $data= ['H84391',
 'Firwho','tawa gembira','Fram Ajaa','Falahul Sani','Syahrul Anam','sinchan','Yoo Jinwoo','Firaun Jr','vxcv chanel','Haidar ilyas','aldiucritt',    
 'Ijal Jale','Pallaka Pall','Rezza Ramadhan','Noe Hacked','Rezza Ramadhan','Dadan dani Supriyadi','ahmad widiya','Rohman Art',
 'alfahera2321@gmail.com','Ahmad Assaqif','Nl Alfin','Osky','Alditsa Dhygta2','Fajar Hidayat','Inzal Fikri','m.salman al farisi',
- 'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha','Ivan Mahardika','Wiwi',
+'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha','Ivan Mahardika','Wiwi',
 'Om Anarki','Ivan Mahardika','Wiwi','Poker Ncs','Taufàn','Kopet Garing','Ujang Annur','Vinwau','Devil is BACK',
 'Bey Junior','Riee Fahryy','Opan Kuswanto','Fahri Hilman Firdaus','aron laruku','Diki Prastiyo','Cak Young','Roy Martin','Rama Doni','Adam Maulana Malik','Margi Jamaika','syfaa a','maxsy masberto','umhi','christanca juni',
-        ];
+'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir',
+       ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
