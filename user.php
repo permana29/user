@@ -4,7 +4,7 @@ echo $putih."[-] Date : Senin 28-Januari-2019".$t;
 echo $kuning."[-] 5 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 00.36 WIT".$t;
 echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
-echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf".$t;
+echo $kuning."[-] Jadi sinyal down, Untuk pendaftaran Member W&E jadi terhambat mohon maaf".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
