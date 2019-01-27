@@ -5,8 +5,6 @@ echo $kuning."[-] 5 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 00.36 WIT".$t;
 echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
 echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf.".$t;
-echo $ijo."[-] Nicname Akun W&E yang telah di konfirmasi hari ini".$t;
-echo $br."[-] Irey Anggraeni,Ramli HandSomeInHere,kekerenan he,Laila Sari,Alex Permana,sanji dejavu ".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
