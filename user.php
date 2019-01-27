@@ -1,10 +1,12 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-] Date : Minggu 27-Januari-2019 ".$t;
+echo $putih."[-] Date : Senin 28-Januari-2019 ".$t;
 echo $kuning."[-] 5 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo $kuning."[-] Di Perbarui Pada Jam : 02:11 WIT".$t;
-echo $kuning."[-] Mohon Maaf Admin sedang di luar kota,.".$t;
-echo $kuning."[-] Jadi sinyal down, Untuk pendaftaran Member W&E jadi terhambat mohon maaf.".$t;
+echo $kuning."[-] Di Perbarui Pada Jam : 00.36 WIT".$t;
+echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
+echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf.".$t;
+echo $ijo."[-] Nicname Akun W&E yang telah di konfirmasi hari ini".$t;
+echo $br."[-] Irey Anggraeni,Ramli HandSomeInHere,kekerenan he,Laila Sari,Alex Permana,sanji dejavu ".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -72,7 +74,8 @@ $data= ['H84391',
 'Inzal Fikri','Gidas Ajada','Reza Maulana','budikentir48@gmail.com','Iksan Tiwi','Novita Angraini','Iyan Jha','Ivan Mahardika','Wiwi',
 'Om Anarki','Ivan Mahardika','Wiwi','Poker Ncs','Taufàn','Kopet Garing','Ujang Annur','Vinwau','Devil is BACK',
 'Bey Junior','Riee Fahryy','Opan Kuswanto','Fahri Hilman Firdaus','aron laruku','Diki Prastiyo','Cak Young','Roy Martin','Rama Doni','Adam Maulana Malik','Margi Jamaika','syfaa a','maxsy masberto','umhi','christanca juni',
-'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir',
+'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir','Irey Anggraeni','Ramli HandSomeInHere','kekerenan he',
+'Laila Sari','Alex Permana','sanji dejavu',
        ];
-$toto = ['tes',];
+$toto = ['tes',];8
 $ydnews = ['tes','per-mana',];
