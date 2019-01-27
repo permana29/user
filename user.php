@@ -75,5 +75,5 @@ $data= ['H84391',
 'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir','Irey Anggraeni','Ramli HandSomeInHere','kekerenan he',
 'Laila Sari','Alex Permana','sanji dejavu',
        ];
-$toto = ['tes',];8
+$toto = ['tes',];
 $ydnews = ['tes','per-mana',];
