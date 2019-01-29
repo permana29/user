@@ -1,7 +1,7 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Selasa 29-Januari-2019".$t;
-echo $kuning."[-] 19 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] 21 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 23.51 WIT".$t;
 echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
 echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf".$t;
