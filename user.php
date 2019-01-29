@@ -75,7 +75,7 @@ $data= ['H84391',
 'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir','Irey Anggraeni','Ramli HandSomeInHere','kekerenan he',
 'Laila Sari','Alex Permana','sanji dejavu','Yan Sercy','m_ikbal','jibeng','Erwin T','Arie Cimot','Cahyo Prasetyo','Awang Score',
 'dega anjam','Hi Patrick','Haiyun Aladdiin','SPERM PLAYLIST SONG','Revi Pranata','Rudy Setiawan','Akbar Sanjaya','Amarr','Harith Harith',
-'Jijo','Hanif Z','Panci GAMER','Muhammad Iqbal',
+'Jijo','Hanif Z','Panci GAMER','Muhammad Iqbal','Krisna Purba K',
        ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
