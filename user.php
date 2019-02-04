@@ -1,10 +1,11 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-] Date : Selasa 29-Januari-2019".$t;
-echo $kuning."[-] 21 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
-echo $kuning."[-] Di Perbarui Pada Jam : 00.32 WIT".$t;
-echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
-echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf".$t;
+echo $putih."[-] Date : Selasa 04-Februari-2019".$t;
+echo $kuning."[-] 60 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $kuning."[-] Di Perbarui Pada Jam : 22.19 WIB".$t;
+echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
+echo $kuning."[-] Mohon Maaf Untuk Pendaftaran member W&E terhambat".$t;
+echo $kuning."[-] sinyal di desa saya tidak bagus, jadi agak lama konfirmasinya!".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
@@ -75,7 +76,15 @@ $data= ['H84391',
 'Yusuf Ahmad','Ahmad yusuf','culfirafif800@gmail.com','ikisome26gmail.com','Ajir Muhajir','Irey Anggraeni','Ramli HandSomeInHere','kekerenan he',
 'Laila Sari','Alex Permana','sanji dejavu','Yan Sercy','m_ikbal','jibeng','Erwin T','Arie Cimot','Cahyo Prasetyo','Awang Score',
 'dega anjam','Hi Patrick','Haiyun Aladdiin','SPERM PLAYLIST SONG','Revi Pranata','Rudy Setiawan','Akbar Sanjaya','Amarr','Harith Harith',
-'Jijo','Hanif Z','Panci GAMER','Muhammad Iqbal','Krisna Purba K',
+'Jijo','Hanif Z','Panci GAMER','Muhammad Iqbal','krisnapurba','Pang Katan','MasbeyaAja','Yusuf Haryadi','family ibnucholil','RG BTW',
+'Nur hera Sry rahayu','caca supriadi','Sanjaya Prima','Ai Puput Puspitasari','Legenda Pertama','hadesss','made','Aditia darmawan',
+'Ajjat Kancilstones','Irwan Poppies','Rohan Vloger','Yoga Yogi','Zafi Jaya','Ivaldi Slanker Sukabumi','Mondy Shabara','ADITYA SAPUTRA',
+'fahmi ajiansyah','LANA telleng','Hardy Nurul Hidayat','awaludin ferianto1999','bnkthailand1 @gmail.com','Sami Umalim','Muhammad Anggi',
+'Soul Gt','Pro One','Rangga Diaksahardiga','Rizky Fauzy','Elok Setyanigati','Ilham Muhammad','Abdul Yakin','WHO AM I','javier R',        
+'Tika Putri','Davi Squarepant','Moon death','dzul ahmad','Ardian Vyanisty','KAMI PRODUCTION','Yonatan Septa Perdana','Dana Gaming 08',
+'Shelda Renalda','Bayu Febri','cari COIN','Asep Gelo1928','Bitcoin Eth','Edi Kurniawan','Fendi Efendi','Kiez Sugeng','Engkiie Dervion',
+'irwan','Julianto Liu','Good Game','Rudiansyah','Egi',        
+       
        ];
 $toto = ['tes',];
 $ydnews = ['tes','per-mana',];
