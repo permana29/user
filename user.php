@@ -1,8 +1,9 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Selasa 04-Februari-2019".$t;
-echo $kuning."[-] 60 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 22.19 WIB".$t;
+echo $kuning."[-] 60 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $putih."------------------------------------------------------------".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
 echo $kuning."[-] Mohon Maaf Untuk Pendaftaran member W&E terhambat".$t;
 echo $kuning."[-] sinyal di desa saya tidak bagus, jadi agak lama konfirmasinya!".$t;
