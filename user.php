@@ -2,11 +2,9 @@
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis 21-Februari-2019".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 03.30 WIB".$t;
-echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
-echo $putih."------------------------------------------------------------".$t;
+echo $kuning."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
-echo $kuning."[-] Mohon Maaf Untuk Pendaftaran member W&E terhambat".$t;
-echo $kuning."[-] sinyal di desa saya tidak bagus, jadi agak lama konfirmasinya!".$t;
+echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
