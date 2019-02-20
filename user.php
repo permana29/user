@@ -1,8 +1,9 @@
 <?php
+echo $biru."======================================".$t;
 echo $ijo."[•••••] sekilas info [••••••]".$t;
 echo $putih."[-] Date : Kamis 21-Februari-2019".$t;
 echo $kuning."[-] Di Perbarui Pada Jam : 03.30 WIB".$t;
-echo $kuning."======================================".$t;
+echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
 echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
