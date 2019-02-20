@@ -6,6 +6,7 @@ echo $kuning."[-] Di Perbarui Pada Jam : 03.30 WIB".$t;
 echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
 echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
+echo $biru."======================================".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t;
 echo $biru."======================================".$t.$ijo.$t;
 $stat_ads=true;
