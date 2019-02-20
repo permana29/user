@@ -1,8 +1,8 @@
 <?php
 echo $ijo."[•••••] sekilas info [••••••]".$t;
-echo $putih."[-] Date : Selasa 04-Februari-2019".$t;
-echo $kuning."[-] Di Perbarui Pada Jam : 22.19 WIB".$t;
-echo $kuning."[-] 60 akun W&E hari ini Telah di konfirmasi sebagai member".$t;
+echo $putih."[-] Date : Kamis 21-Februari-2019".$t;
+echo $kuning."[-] Di Perbarui Pada Jam : 03.30 WIB".$t;
+echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
 echo $putih."------------------------------------------------------------".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
 echo $kuning."[-] Mohon Maaf Untuk Pendaftaran member W&E terhambat".$t;
@@ -84,7 +84,9 @@ $data= ['H84391',
 'Soul Gt','Pro One','Rangga Diaksahardiga','Rizky Fauzy','Elok Setyanigati','Ilham Muhammad','Abdul Yakin','WHO AM I','javier R',        
 'Tika Putri','Davi Squarepant','Moon death','dzul ahmad','Ardian Vyanisty','KAMI PRODUCTION','Yonatan Septa Perdana','Dana Gaming 08',
 'Shelda Renalda','Bayu Febri','cari COIN','Asep Gelo1928','Bitcoin Eth','Edi Kurniawan','Fendi Efendi','Kiez Sugeng','Engkiie Dervion',
-'irwan','Julianto Liu','Good Game','Rudiansyah','Egi',        
+'irwan','Julianto Liu','Good Game','Rudiansyah','Egi','Akh Kiey','Noval Gaming','Ardi Purnomo','Rasmadi Ilham','Ilham','alenfusiono1',
+'aditramadan574@gmail.com','Adit Swan','mas lecicit','jhonleng','Benny Irmawa','MAFF Channel','Babang R112','Bocing Zulian''puma kecil',
+'Ahmad Soleh','Apri Anto'.'Fernando Syahputra','Asep Ujang',
        
        ];
 $toto = ['tes',];
