@@ -7,7 +7,7 @@ echo $biru."======================================".$t;
 echo $red."[•] Baca Ini Untuk W&E !! [•]".$t;
 echo $kuning."[-] 19 akun W & E Di konfirmasi Sebagai Member".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t;
-echo $biru."======================================".$t;.$ijo.$t;
+echo $biru."======================================".$t.$ijo.$t;
 $stat_ads=true;
 $sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
 $ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
