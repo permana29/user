@@ -85,7 +85,7 @@ $data= ['H84391',
 'Tika Putri','Davi Squarepant','Moon death','dzul ahmad','Ardian Vyanisty','KAMI PRODUCTION','Yonatan Septa Perdana','Dana Gaming 08',
 'Shelda Renalda','Bayu Febri','cari COIN','Asep Gelo1928','Bitcoin Eth','Edi Kurniawan','Fendi Efendi','Kiez Sugeng','Engkiie Dervion',
 'irwan','Julianto Liu','Good Game','Rudiansyah','Egi','Akh Kiey','Noval Gaming','Ardi Purnomo','Rasmadi Ilham','Ilham','alenfusiono1',
-'aditramadan574@gmail.com','Adit Swan','mas lecicit','jhonleng','Benny Irmawa','MAFF Channel','Babang R112','Bocing Zulian''puma kecil',
+'aditramadan574@gmail.com','Adit Swan','mas lecicit','jhonleng','Benny Irmawa','MAFF Channel','Babang R112','Bocing Zulian','puma kecil',
 'Ahmad Soleh','Apri Anto'.'Fernando Syahputra','Asep Ujang',
        
        ];
